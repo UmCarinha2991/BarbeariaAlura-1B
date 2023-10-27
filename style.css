@@ -1,11 +1,15 @@
-body{font-size: 20px;}
+body{
+
+}
+.titulo{padding: 20px;}
+
 
 .imagem{width: 100%;}
 
 .principal{background-color: gray;
-text-align: center;}
+  text-align: center;}
 
 
-.destaque{color: red;}
+  .destaque{color: red;}
 
-.Beneficios{text-align: center;}
+  .beneficio{text-align: center;}
