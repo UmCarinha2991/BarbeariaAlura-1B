@@ -13,3 +13,8 @@ body{
   .destaque{color: red;}
 
   .beneficio{text-align: center;}
+
+  .imagem.beneficios{width: 50%;}
+
+  .lista{ display: inline-block;
+   vertical-align: top;}
